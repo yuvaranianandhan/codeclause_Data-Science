@@ -23,5 +23,15 @@ About Dataset :
   A labeled dataset dataset containing actual transactions from 2010 and 2011. The dataset is maintained on their site, where it can be found by the title "Online Retail".
 Dataset Link : https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
+TASK - 3 FLIGHT DELAY PREDICTION
+
+PROBLEM STATEMENT:
+      Flight delays has become a concern issue for airline companies around the world due to the associated financial loses to both aviation industry and passengers.In this project, we will use machine learning models to predict if the flight will be delayed.
+
+
+About Dataset : 
+
+Dataset1 Link : https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction?select=Jan_2019_ontime.csv
+Dataset2 Link : https://www.kaggle.com/datasets/divyansh22/flight-delay-prediction?select=Jan_2020_ontime.csv
 
 
